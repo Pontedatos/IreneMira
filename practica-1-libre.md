@@ -1,0 +1,9 @@
+## Comentario artículo *<a href="https://www.washingtonpost.com/wp-srv/special/local/dc-shot-spotter/">Shots heard around the District The Washington Post</a>*
+
+2021 2022
+
+El periodismo de datos se trata de una especialidad del periodismo que consiste en recabar y analizar grandes cantidades de datos mediante software especializado y hacer comprensible la información a la audiencia a través de artículos, infografías, visualizaciones de datos o aplicaciones interactivas.
+
+Muchos de los artículos periodísticos que vemos actualmente hacen un importante uso del periodismo de datos, convirtiendo a esta parte del periodismo en el futuro más cercano de esta disciplina.
+
+No es casual que veamos un importante auge de las infografías, gráficos, o cualquier tipo de visualización gráfica que reúne una serie de datos concretos. Es el caso del artículo sujeto a análisis del diario estadounidense *<a href="https://www.washingtonpost.com/wp-srv/special/local/dc-shot-spotter/">The Washington Post</a>*. En él observamos, en un primer momento, la aparición de un mapa con distintas tonalidades, las cuales nos muestran el mayor o menor grado de violencia en la ciudad de Washington. Además, es interesante analizar este artículo porque no solo utilizan el periodismo de datos para la inserción de mapas interactivos, sino que también añaden grabaciones, tres audios distintos con una onda diferenciada que nos muestran unas características concretas. También hay que destacar el uso de porcentajes, en distinto color, y un diagrama que ejemplifica la distancia a la que se encuentra el sensor del ruido y la distancia del sonido del disparo. Por último, muy interesante como añaden una serie de "cosas" (como ellos mismos añaden) que pueden interferir en el sistema, para ello, recurren, de nuevo, a una especie de símbolos -creados mediante una infografía- para ejemplificar mejor y hacer la información más interactiva al lector.

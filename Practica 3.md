@@ -1,0 +1,2 @@
+## Información sobre la práctica 3
+En esta tercera practica ha consistido en la descripción de qué hemos hecho, qué entendemos que hemos hecho y qué nos falta por entender sobre una serie de datos sobre dos informaciones diferentes vistas en clase. La primera de ellas sobre la creacion de un mapa de la ciudad de Zaragoza y la segunda, sobre los datos del Covid-19. Ambos datos se han exportado en HTML y en ipynb.
