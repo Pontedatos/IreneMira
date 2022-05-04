@@ -23,3 +23,4 @@ La última práctica realizada consistía en crear un nuevo notebook de Python e
 ## Explicación de la metodología realizada para este trabajo final
 - [“Metodología”](https://github.com/Pontedatos/IreneMira/blob/60d3ca208b66485232a95d9dd59f5644940054e4/metodologia.md)
 ## Resumen 
+- [“Resumen de lo aprendido durante el curso”](https://github.com/Pontedatos/IreneMira/blob/b5a03af5741783a49787309c066fd81154845ccc/Resumen.md)
