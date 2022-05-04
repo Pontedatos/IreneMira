@@ -10,8 +10,8 @@ Esta segunda práctica consistió en la creación de un artículo propio a parti
 ## Práctica 3
 En esta práctica se ha realizado una serie de comentarios y además, se ha completado los notebooks que creamos en Jupyter mediante el nombre de "notebooks", "barchart" t ""api-pandas-folium"-. Se fueron explicando los pasos uno a uno y de igual modo, se fue dejando más o menos claro, cuales no habíamos comprendido aún. Una vez hechos, era obligatorio también descargarlos en "ipynb" y en "HTML" para de esta forma, poder subirlos a nuestro repositorio de GitHub. 
 - Explicación de la  [“Práctica 3”](https://github.com/Pontedatos/IreneMira/blob/1f5fe55896e786bb4e6e37b20d6247b14e1fe5a8/Practica%203.md)
-- [“API-PANDAS-FOLIUM HTML”](practica-3/API-pandas-folium(1).html)
-- [“API-PANDAS-FOLIUM ipynb ”](practica-3/API-pandas-folium(1).ipynb)
+- [“API-PANDAS-FOLIUM HTML”](https://github.com/Pontedatos/IreneMira/blob/4569187954601be4711db61d12aa3c37b670f43a/API-pandas-folium(1).html)
+- [“API-PANDAS-FOLIUM ipynb ”](https://github.com/Pontedatos/IreneMira/blob/4569187954601be4711db61d12aa3c37b670f43a/API-pandas-folium(1).ipynb)
 - [“API-PANDAS-COVID HTML”](https://github.com/Pontedatos/IreneMira/blob/1f5fe55896e786bb4e6e37b20d6247b14e1fe5a8/phyton-api-covid19-pandas(1).html)
 -  [“API-PANDAS-COVID ipynb ”](https://github.com/Pontedatos/IreneMira/blob/1f5fe55896e786bb4e6e37b20d6247b14e1fe5a8/phyton-api-covid19-pandas(1).ipynb)
 ## Práctica 4
