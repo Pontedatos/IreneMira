@@ -20,3 +20,6 @@ La última práctica realizada consistía en crear un nuevo notebook de Python e
 -  [“Análisis presupuesto económico html”](https://github.com/IreneMira/Repositorio-IreneMira/blob/1305791ff7621ad75196886e93c0b2d583023a8b/practica-4/python-csv-presupuesto-pandas.html)
 -  [“Análisis presupuesto económico ipynb”](https://github.com/IreneMira/Repositorio-IreneMira/blob/1305791ff7621ad75196886e93c0b2d583023a8b/practica-4/python-csv-presupuesto-pandas.ipynb)
 -   [“Datos”](https://github.com/IreneMira/Repositorio-IreneMira/blob/1305791ff7621ad75196886e93c0b2d583023a8b/practica-4/practica-4.csv.csv)
+## Explicación de la metodología realizada para este trabajo final
+- [“Metodología”](https://github.com/Pontedatos/IreneMira/blob/60d3ca208b66485232a95d9dd59f5644940054e4/metodologia.md)
+## Resumen 
