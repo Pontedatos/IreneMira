@@ -9,7 +9,7 @@ Esta segunda práctica consistió en la creación de un artículo propio a parti
 -  [“Coronavirus. El avance del virus en tiempo real”](practica-2.md) 
 ## Práctica 3
 En esta práctica se ha realizado una serie de comentarios y además, se ha completado los notebooks que creamos en Jupyter mediante el nombre de "notebooks", "barchart" t ""api-pandas-folium"-. Se fueron explicando los pasos uno a uno y de igual modo, se fue dejando más o menos claro, cuales no habíamos comprendido aún. Una vez hechos, era obligatorio también descargarlos en "ipynb" y en "HTML" para de esta forma, poder subirlos a nuestro repositorio de GitHub. 
-- Explicación de la  [“Práctica 3”](https://github.com/Pontedatos/IreneMira/blob/46948cebbb6dc62d96fd1e387fef879cc1f1d677/Practica%203.md)
+- Explicación de la  [“Práctica 3”](Practica%203.md)
 - [“API-PANDAS-FOLIUM HTML”](https://github.com/Pontedatos/IreneMira/blob/46948cebbb6dc62d96fd1e387fef879cc1f1d677/API-pandas-folium(1).html)
 - [“API-PANDAS-FOLIUM ipynb ”](https://github.com/Pontedatos/IreneMira/blob/46948cebbb6dc62d96fd1e387fef879cc1f1d677/API-pandas-folium(1).ipynb)
 - [“API-PANDAS-COVID HTML”](https://github.com/Pontedatos/IreneMira/blob/46948cebbb6dc62d96fd1e387fef879cc1f1d677/phyton-api-covid19-pandas(1).html)
