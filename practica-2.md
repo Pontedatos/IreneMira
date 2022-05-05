@@ -5,7 +5,7 @@ El gráfico sujeto a análisis se encuentra dentro del artículo periodístico <
 La elección de este medio ha sido, principalmente, para ofrecer una narrativa y cifras diferentes a las que estamos, quizá, más familiarizadas por los medios de comunicación españoles o europeos. Además, cuando se habla de la COVID-19 nos centramos principalmente en los países nombrados u occidentales, dejando a un lado, aquellos como los países de América del Sur, Asia o África, siendo los que más han padecido las consecuencias de esta pandemia. 
 
 *Imagen de la vacuna contra la COVID19*
-![Imagen text](https://github.com/IreneMira/Repositorio-IreneMira/blob/main/vacuna.png) 
+![Imagen text](vacuna.png) 
 
 El coronavirus ha sido un acontecimiento a nivel mundial que ha servido para que los diarios, a nivel mundial también, desarrollen sus equipos dentro del periodismo de datos, ya que esta enfermedad necesita una actualización de datos constante. Este ha sido otro de los motivos de la elección de dicho artículo. 
 
@@ -22,7 +22,7 @@ A parte de los datos que nos ofrece el propio gráfico también se puede analiza
 En el norte encontramos ciudades que también han padecido duras consecuencias debido a la pandemia, al igual que en el sur del país, sin embargo, esta última zona es la que menos personas afectadas y fallecidos han tenido -el tamaño de los círculos que indican estos datos son más semejantes entre ellos-. 
 
 *Mapa regiones Argentina*
-![Imagen text](https://github.com/IreneMira/Repositorio-IreneMira/blob/main/regiones.png) 
+![Imagen text](regiones.png) 
 
 
 
