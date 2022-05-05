@@ -17,8 +17,8 @@ En esta práctica se ha realizado una serie de comentarios y además, se ha comp
 ## Práctica 4
 La última práctica realizada consistía en crear un nuevo notebook de Python en Jupyter donde, hemos elegido cada una unos datos concretos, se han ido analizando, visualizando y esbozando una especie de historia con ellos. También en esta práctica era necesario descragarlos en "html" y "ipynb" para así subirlos a nuestro repositorio de GitHub como en la práctica 3. La elección de estos datos era libre y en mi caso me centré en los Presupuestos Económico ingresos 2021. Esta práctica también contenía una explicación de la misma.
 - Explicación  [“Práctica 4”](practica4.md)
--  [“Análisis presupuesto económico html”](python-csvpresupuesto-pandas.html)
--  [“Análisis presupuesto económico ipynb”](python-csv-presupuestopandas.ipynb)
+-  [“Análisis presupuesto económico html”](https://github.com/Pontedatos/IreneMira/blob/fd6085717faa1d757838c59df52feaf093f37d42/python-csvpresupuesto-pandas.html)
+-  [“Análisis presupuesto económico ipynb”](https://github.com/Pontedatos/IreneMira/blob/312515051a15d22c66360ab4fdd659908a4b5bb9/python-csv-presupuestopandas.ipynb)
 -   [“Datos”](https://github.com/IreneMira/Repositorio-IreneMira/blob/1305791ff7621ad75196886e93c0b2d583023a8b/practica-4/practica-4.csv.csv)
 ## Explicación de la metodología realizada para este trabajo final
 - [“Metodología”](metodologia.md)
