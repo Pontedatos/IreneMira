@@ -8,7 +8,7 @@ Esta práctica consistió en la división en dos comentarios diferentes. El prim
 Esta segunda práctica consistió en la creación de un artículo propio a partir de una visualización de datos (infografías, mapas interactivos, gráficos...) que ya estaban creados por otro medios. Yo por ejemplo, escoguí un artículo sobre los datos del Covid en Argetina. Los datos sobre la pandemia han dado lugar a una amplia y original creación de gráficos, mapas o infografías gracias al periodismo de datos, de ahí mi elección.
 -  [“Coronavirus. El avance del virus en tiempo real”](practica-2.md) 
 ## Práctica 3
-En esta práctica se ha realizado una serie de comentarios y además, se ha completado los notebooks que creamos en Jupyter mediante el nombre de "notebooks", "barchart" t ""api-pandas-folium"-. Se fueron explicando los pasos uno a uno y de igual modo, se fue dejando más o menos claro, cuales no habíamos comprendido aún. Una vez hechos, era obligatorio también descargarlos en "ipynb" y en "HTML" para de esta forma, poder subirlos a nuestro repositorio de GitHub. 
+En esta práctica se ha realizado una serie de comentarios y, además, se ha completado los notebooks que creamos en Jupyter mediante el nombre de "notebooks", "barchart" t ""api-pandas-folium"-. Se fueron explicando los pasos uno a uno y de igual modo, se fue dejando más o menos claro, cuales no habíamos comprendido aún. Una vez hechos, era obligatorio también descargarlos en "ipynb" y en "HTML" para de esta forma, poder subirlos a nuestro repositorio de GitHub. 
 - Explicación de la  [“Práctica 3”](practica3.md)
 - [“API-PANDAS-FOLIUM HTML”](api-pandas-folium.html)
 - [“API-PANDAS-FOLIUM ipynb ”](api-pandas-folium.ipynb)
