@@ -60,7 +60,7 @@ set linenumbers`]
 
 Por otro lado, es importante mencionar que en el caso de Cygwin el método es diferente. En este caso lo que hay que hacer es copiar el archivo de configuración de  [`nano`] que se sitúa en el directorio [`/etc.`]. Una vez hecho esto, lo copiamos a nuestro directorio home con  [`cp /etc/nanorc .nanorc`] y lo editamos mediante [`nano .nanorc.`]
 
-Buscamos con CTRL + W “linenumbers” (sin comillas), y en su línea (# [`set linenumbers`]) le quitamos la #. Volvemos a buscar con CTRL + W “softwrap” (sin las comillas), y en su línea (# [`set softwrap`]) le quitamos la #. Guardamos con CTRL + O y salimos con CTRL + X.
+Buscamos con CTRL + W “linenumbers” (sin comillas), y en su línea (# [`set linenumbers`]) le quitamos la #. Volvemos a buscar con [`CTRL + W`] “softwrap” (sin las comillas), y en su línea (# [`set softwrap`]) le quitamos la #. Guardamos con [`CTRL + O`] y salimos con [`CTRL + X`].
 
 # Configuración y funcionamiento de un gestor de paquetes/programas del emulador de la terminal
 
@@ -71,7 +71,7 @@ Este gestor de paquetes lo que nos permite es instalar herramientas como vimos e
 
 # Versión del lenguaje de SHELL utilizado: 
 
-Shell, según lo estudiado en clase se trata del “idioma de la terminal (dentro está el BASH y el CSH: Windows y Mac respectivamente)”. Dentro de la Shell hay dialectos: uno es para /bin/bash/.
+Shell, según lo estudiado en clase se trata del “idioma de la terminal (dentro está el BASH y el ZSH: Windows y Mac respectivamente)”. Dentro de la Shell hay dialectos: uno es para /bin/bash/.
 
 Para comprobar la versión del lenguaje de Shell que hemos estado utilizado usamos la variable de entorno  [`$0`].Para consultarla tenemos que realizar el comando [`echo $0`]. Una vez hecho esto nos damos cuenta de que tanto para Cygwin como para WSL es Bash. 
 
