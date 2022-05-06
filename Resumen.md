@@ -12,7 +12,7 @@ Lo que nosotras hemos aprendido es la instalación de un programa de emulación 
 
 WSL: Instalación de Ubuntu
 
-Para poder instalar WSL se hizo a través de la terminal de Windows desarrollada por Microsoft, PowerShell (debido a que mi sistema operativo es Windows). Para hacerlo heos tenido que iniciar una sesión como administradores, y ejecutar el comando [`wsl --install -d Ubuntu`]. Una vez instalada es necesario reiniciar el ordenador. Una vez hecho e iniciado por primera vez, se nos pide la creación de un usuario y una contraseña para el usuario UNIX, que es el usuario administrador.
+Para poder instalar WSL se hizo a través de la terminal de Windows desarrollada por Microsoft, PowerShell (debido a que mi sistema operativo es Windows). Para hacerlo heos tenido que iniciar una sesión como administradores, y ejecutar el comando `wsl --install -d Ubuntu`. Una vez instalada es necesario reiniciar el ordenador. Una vez hecho e iniciado por primera vez, se nos pide la creación de un usuario y una contraseña para el usuario UNIX, que es el usuario administrador.
 
 *Cygwin*: Unix en Windows
 
