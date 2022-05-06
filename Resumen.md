@@ -50,13 +50,13 @@ Además, también podemos editar el comportamiento de nuestro editor de texto `n
 
 Lo que nosotras hemos hecho ha sido ajustar el texto a la resolución de la pantalla y de esta forma aparece el número de líneas. Esto se ha podido hacer mediante: `nano $HOME/.nanorc`. Una vez dentro hemos tenido que poner:
 
- ```#Ajustar el texto a pantalla
+ ```#Ajustar el texto a pantalla```
 
-set softwrap
+```set softwrap```
 
-#Numerar las líneas
+```#Numerar las líneas```
 
-set linenumbers```
+```set linenumbers```
 
 Por otro lado, es importante mencionar que en el caso de Cygwin el método es diferente. En este caso lo que hay que hacer es copiar el archivo de configuración de  `nano` que se sitúa en el directorio `/etc.`. Una vez hecho esto, lo copiamos a nuestro directorio home con  `cp /etc/nanorc .nanorc` y lo editamos mediante `nano .nanorc.`
 
