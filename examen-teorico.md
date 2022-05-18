@@ -1,7 +1,7 @@
 # PREGUNTA 1
 ## **¿Qué medio inglés es fundamental en el periodismo y la visualización de datos?**
 
-* The Guardian * es el medio de comunicación pionero del periodismo de datos moderno. Es importante tener en cuenta que el periodismo moderno, del que bebemos actualmente, es aquel que nace en el año 2006, 2008 con una combinación de factores, entre ellos: la abundancia de software de código abierto, HTML5 y Open Data.
+*The Guardian* es el medio de comunicación pionero del periodismo de datos moderno. Es importante tener en cuenta que el periodismo moderno, del que bebemos actualmente, es aquel que nace en el año 2006, 2008 con una combinación de factores, entre ellos: la abundancia de software de código abierto, HTML5 y Open Data.
 
 # PREGUNTA 2: 
 ## **De dónde viene el nombre de Jupyter**
@@ -10,9 +10,9 @@ Jupyter es uno de los editores que nos permiten usar el lenguaje Markdown. Es un
 
 
 # PREGUNTA 3: 
-## ** Qué es Internet **
+## **Qué es Internet**
 
-Internet es una red de redes, es decir, se trata de una red de ordenadores de todo el mundo y que se encuentran conectados entre sí. El funcionamiento de Internet se hace gracias a los protocolos [`TCP/IP`]. [`TCP`] responde al protocolo de control de la transmisión, mientras que [`IP`] hace referencia a Internet Protocol. También provee información a una gran cantidad de personas que se encuentran conectadas entre ellas a través de las redes de telefonía y cable. Una de esta información puede ser una Web que no es lo mismo que Internet. De hecho, necesitas internet para poder tener acceso a cualquier Web
+Internet es una red de redes, es decir, se trata de una red de ordenadores de todo el mundo y que se encuentran conectados entre sí. El funcionamiento de Internet se hace gracias a los protocolos `TCP/IP`. `TCP` responde al protocolo de control de la transmisión, mientras que `IP` hace referencia a Internet Protocol. También provee información a una gran cantidad de personas que se encuentran conectadas entre ellas a través de las redes de telefonía y cable. Una de esta información puede ser una Web que no es lo mismo que Internet. De hecho, necesitas internet para poder tener acceso a cualquier Web
 
 # PREGUNTA 4: 
 ## **Qué es la web**
@@ -22,13 +22,13 @@ Una web es una colección de páginas que se asienta sobre esta red de computado
 
 # PREGUNTA 5: 
 ## **Qué significa URL**
-El término **URL** por sus siglas significan *Unified Resource Locator* o localizador de recursos uniforme. Este concepto corresponde a una dirección única de la web, es decir, es uno de los servicios de red de Internet y en dentro de este servicio es donde podemos encontrar el recurso de la URL. Según la página web de Edix [“Edix”](https://www.edix.com/es/instituto/que-es-url/) una URL es es la dirección única y específica de cada página o recurso que existe en la web. Cada página, cada recurso, va enlazado a una URL. 
+El término **URL** por sus siglas significan *Unified Resource Locator* o localizador de recursos uniforme. Este concepto corresponde a una dirección única de la web, es decir, es uno de los servicios de red de Internet y en dentro de este servicio es donde podemos encontrar el recurso de la URL. Según la página web de [“Edix”](https://www.edix.com/es/instituto/que-es-url/) una URL es es la dirección única y específica de cada página o recurso que existe en la web. Cada página, cada recurso, va enlazado a una URL. 
 
 Además, la URL está compuesto por tres partes:
 https://, que indica el protocolo usado, el dominio que sea y la separación entre protocolo y dominio se realiza con ://. Por otro lado, el dominio es lo que corresponde  a todo aquello que va entre :// y la primera /. 
 
 # PREGUNTA 6
-## ** ¿Dónde se produce el funcionamiento cliente-servidor? **
+## **¿Dónde se produce el funcionamiento cliente-servidor?**
 La red cliente-servidor se trata de una red de comunicaciones en la que los clientes están conectados a un servidor, y por donde se pueden centralizar los diversos recursos y aplicaciones con que se cuenta. A continuación, se ponen a disposición de los clientes cada vez que estos sean requeridos o solicitados.
 
 Un ejemplo del funcionamiento y estructura cliente-servidor lo podemos ver en [`Localhost`] ya que se trata del nombre de dominio de ese recurso, que corresponde a mi propio ordenador y sirve para funcionar una aplicación cliente contra su servidor en el mismo equipo. 
@@ -36,15 +36,15 @@ Un ejemplo del funcionamiento y estructura cliente-servidor lo podemos ver en [`
 # PREGUNTA 7: 
 ## **¿Qué relación tiene CSV con Excel?**
 
-El término [`CSV`] significa valores separados por comas y se trata de un archivo de texto en que los caracteres se encuentran separados por comas. Con ello, se hace una tabla que contiene filas y columnas, para de esta forma, hacer la comprensión de los mismos más sencilla. Por otro lado, Excel es una aplicación, un programa que sirve para poder visualizar los datos tabulados. Ambos lo que pretenden es facilitar o hacer más sencillo el tratamiento de datos. 
+El término `CSV` significa valores separados por comas y se trata de un archivo de texto en que los caracteres se encuentran separados por comas. Con ello, se hace una tabla que contiene filas y columnas, para de esta forma, hacer la comprensión de los mismos más sencilla. Por otro lado, Excel es una aplicación, un programa que sirve para poder visualizar los datos tabulados. Ambos lo que pretenden es facilitar o hacer más sencillo el tratamiento de datos. 
 
 # PREGUNTA 8: 
-## ** ¿Quién es Philip Meyer? **
+## **¿Quién es Philip Meyer?**
 
 Philip Meyer es un periodista estadounidense considerado como uno de los pioneros en dar nombre a la disciplina periodística que hoy conocemos como Periodismo de Datos. De hecho, él la denominó como *“Periodismo de datos”* como *"periodismo de precisión"*. A partir de este momento se ha abierto una especie de debate sobre el nombre que debe, o no, llevar esta disciplina, pasando por "periodismo guiado por datos", "Data Driven Journalism", o "Periodismo de base de datos".
 
 # PREGUNTA 9: 
-## **  ¿Quién fue Florence Nightingale? **
+## **¿Quién fue Florence Nightingale?**
 
 Esta enfermera, escritora y estadística italiana del siglo XIX y principios del XX, supone una de las figuras claves dentro de la disciplina que estamos abordando, ya que puso los antecedentes de la visualización de datos, creando el primer modelo conceptual de enfermería (considerada una pionera en este ámbito). Destacó también por la invención del Diagrama de Área Polar, el cual se utilizó para la representación de los datos referidos al  número de muertes en el ejército británico durante la Guerra de Crimea. La creación de este gráfico supone toda una revolución ya que nos permite visualizar una gran cantidad de datos sobre un mismo tema proporcionando, a quien lo lee, una interpretación clara de los mismos como puede ser las muertes por enfermedades infecciosas en 1854-1855 o la reducción de la mortalidad debido a las buenas, malas o mejoras que se hicieron en los hospitales. 
 
